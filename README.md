@@ -13,7 +13,7 @@ Ela consiste em uma única rota no root (/), que busca registro no mongoDb a fim
 ## Dica ultilizando docker
 
 - Ultilize versão do node >= 18
-- Rodar o buid da aplicação
+- Rodar o build da aplicação
 - Rodar a instalação de dependências
 - Exportar uma porta para acesso api x container
 
